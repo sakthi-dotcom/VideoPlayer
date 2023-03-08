@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+#For more details ,see
+#  https://www.kodeco.com/14273655-mediaplayer-simplified-video-playback-on-android
